@@ -1,0 +1,36 @@
+#welcome
+{
+  display:flex;
+text-align:left;  background-color:red;
+  color:white;
+  }
+#welcome-section:hover
+{
+   background-color: white;
+   }
+#projects
+   {
+     background-color:black;
+display:block;
+color:white;
+text-align:center;
+   }
+   #navbar
+   {
+     background-color:gray;
+display:block;
+   }
+   #navbar1 
+   {
+          display:flex;
+   }
+   #navbar1 img{
+     height:500px;
+     width 40px;
+   }
+   #footer
+   {
+     text-align:center;
+     background-color:gray;
+     
+   }
